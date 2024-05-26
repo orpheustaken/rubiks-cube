@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Yet another poorly written Rubik's Cube</h1>
-  <p><i>A Python implementation of the Rubik's Cube</i></p>
+  <p><i>A Python implementation of the Rubik's Cube with OOP</i></p>
 </div>
 
 ### Dependencies
